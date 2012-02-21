@@ -1,6 +1,6 @@
 This tool is entended to help to compare two strings and know if those two strings stands for the same thing.
 
-For example, those two strings «comparaison» (which is the well spelled word) ans «komapézon» (which is the misspelled one) are, phoneticly, equivalent in french.
+For example, those two strings «comparaison» (which is the well spelled word) ans «komparézon» (which is the misspelled one) are, phoneticly, equivalent in french.
 
 The main function (phoneticize($str)) create a phoneticized version of $str which is a kind of factorized one.
 
