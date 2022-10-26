@@ -1,5 +1,5 @@
 /*
-Author : jean-François VIAL <http://about.me/Jeff_>
+Author : Jean-François VIAL <http://about.me/Jeff_>
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
@@ -23,6 +23,7 @@ function cleanStr(str) {
 	return str
 		.normalize('NFKD')
 		.replace(/\p{Diacritic}/gu, '')
+		.toLowerCase()
 		.trim();
 }
 
