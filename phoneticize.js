@@ -1,5 +1,6 @@
 /*
 Copyright 2012 Jean-François Vial <https://about.me/jeff_>
+Copyright 2022 Maxime Di Natale <pivoorigami@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
